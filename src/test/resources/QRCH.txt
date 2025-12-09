@@ -1,0 +1,36 @@
+<QRCH QRType="SPC" Version="0200" Coding="1">
+        <CdtrInf>
+            <IBAN>CH8731000006632521000</IBAN>
+            <Cdtr>
+                <AdrTp>S</AdrTp>
+                <Name>Schweizerische Mobiliar Lebensversicherungs-Gesellschaft AG</Name>
+                <StrtNmOrAdrLine1>Chemin de la Redoute</StrtNmOrAdrLine1>
+                <BldgNbOrAdrLine2>54</BldgNbOrAdrLine2>
+                <PstCd>1260</PstCd>
+                <TwnNm>Nyon</TwnNm>
+                <Ctry>CH</Ctry>
+            </Cdtr>
+        </CdtrInf>
+        <CcyAmt>
+            <Amt></Amt>
+            <Ccy>CHF</Ccy>
+        </CcyAmt>
+        <UltmtDbtr>
+            <AdrTp>S</AdrTp>
+            <Name>Personalfürsorgestiftung der Alex Neher AG </Name>
+            <StrtNmOrAdrLine1>Felsensteinstrasse</StrtNmOrAdrLine1>
+            <BldgNbOrAdrLine2>8</BldgNbOrAdrLine2>
+            <PstCd>9642</PstCd>
+            <TwnNm>Ebnat-Kappel</TwnNm>
+            <Ctry></Ctry>
+        </UltmtDbtr>
+        <RmtInf>
+            <Tp>QRR</Tp>
+            <Ref>000000000000000000124712967</Ref>
+            <AddInf>
+                <Ustrd></Ustrd>
+                <Trailer>EPD</Trailer>
+                <StrdBkgInf></StrdBkgInf>
+            </AddInf>
+        </RmtInf>
+    </QRCH>
